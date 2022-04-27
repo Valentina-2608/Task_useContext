@@ -1,0 +1,65 @@
+.main{width:1240px;
+  height:700px;
+  position:relative;
+  margin:0 auto;
+}
+
+
+.block{width:1240px;
+  height:800px;
+  position:absolute;
+  top:0px;
+  left:0px;
+  
+}
+
+.caption{
+  width:1240px;
+  height:100px;
+  background-color:midnightblue;
+  position: absolute;
+  top:0px;
+  left:0px;
+  text-align:center;
+  color:white;
+}
+
+.button_block{
+  position:absolute;
+  width:1240px;
+  height:150px;
+  top:100px;
+  left:0px;
+  background: cornflowerblue;
+}
+
+
+.button1{float:left;
+margin-left:50px;
+margin-top:50px;
+height:50px;
+width:150px;
+font-size:20px;
+font-weight: bold;}
+
+
+.button2{float:left;
+  margin-left:50px;
+  margin-top:50px;
+  height:50px;
+  width:150px;
+  font-size:20px;
+  font-weight: bold;}
+
+
+.result{
+  width:1240px;
+  height:300px;
+  background-color: aquamarine;
+  position:absolute;
+  top:250px;
+  left:0px;
+  border:1px solid lightskyblue;
+  font-size:20px;
+  text-align: center;
+}
